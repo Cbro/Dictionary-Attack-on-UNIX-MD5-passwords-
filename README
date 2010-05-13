@@ -1,0 +1,5 @@
+# Salted Version 
+python crack.py dict.txt password_salt9 1
+
+# Unsalted Version
+python crack.py dict.txt password9 0
